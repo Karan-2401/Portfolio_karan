@@ -1,4 +1,4 @@
-import logo from '../assets/logo.png'
+import logo from '/assets/logo.png'
 import { FaGithub, FaLinkedin,FaWhatsapp } from 'react-icons/fa'
 import { FaSquareXTwitter} from 'react-icons/fa6'
 function Navbar() {
