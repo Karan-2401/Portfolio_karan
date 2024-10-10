@@ -19,38 +19,39 @@ let projects = [
   {
     image:p1,
     title:"Dice Game",
-    descreption:"Introducing the Dice Game, an entertaining and dynamic React.js project! Players in this game roll dice and score points according to the number they roll. You receive two points if the number doesn't match the predetermined target; else, you score points. This game is exciting and challenging, with an appealing interface and simple principles. Suitable for players of all ages, it's an excellent opportunity to put your strategy and luck to the test. To find out how many points you can score, roll the dice!",
+    descreption:"Developed an interactive single-player dice game using React for dynamic UI updates. Implemented game logic in JavaScript to generate random dice rolls, providing an engaging and unpredictable experience. The project incorporates modern web development practices with a responsive design using HTML CSS, and Tailwind for a seamless user experience across devices.",
     
   },
-  {
-    image:p2,
-    title:"Nike Landing page",
-    descreption:"Introducing the React.js-built Nike Landing Page, a slick and contemporary design! With an easy-to-use structure and flexible design, this visually arresting portal features the most recent Nike collections and items. Viewers may quickly browse through different categories, examine highlighted products, and take advantage of special offers. All sneakerheads will find an enjoyable buying experience on this landing page, which perfectly embodies the Nike brand with its colorful graphics and fluid animations. Incorporate Nike into your wardrobe to uplift it."
-  },
+  
   {
     image:p3,
     title:"Gemini Clone",
-    descreption:"Presenting the Gemini Clone, a potent React.js project that draws inspiration from Google Gemini! Through the use of Google's API, this application facilitates easy communication between users and allows them to ask and get informed responses. Although it duplicates the essential features of the original, kindly be aware that the application needs an API key to work, which is not provided for financial and security concerns. Use this interactive tool to investigate the possibilities of AI-driven solutions and discover how it may help you with a range of questions."
+    descreption:"Developed a functional clone of Google Gemini using React and Tailwind CSS for a responsive and modern design. Integrated the Google API to enhance functionality, ensuring real-time data interaction. This project demonstrates advanced proficiency in React's component-based architecture and Tailwind's utility-first approach, providing a seamless user experience across devices. The clone accurately replicates the features and aesthetics of Google Gemini, showcasing API integration and modern web development techniques."
   },
   {
     image:p4,
     title:"Stcak Overflow Clone",
-    descreption:"A simple React.js replica of the well-known Q&A site is now available: the Stack Overflow Clone! By allowing users to explore questions, write answers, and interact with a developer community, this project aims to replicate the essential characteristics of Stack Overflow. Despite preserving the spirit of the original website, it's a fantastic educational tool for web building principles and React.js features. With the help of this clone that is easily accessible, explore the realm of programming queries and solutions."
+    descreption:"Developed a full-featured Stack Overflow clone using React and React Router for seamless navigation across multiple pages. The project includes user-driven Q&A functionality, where users can post questions, submit answers, and upvote responses. Styled with Tailwind CSS for a modern and responsive layout, the clone replicates key features of Stack Overflow while ensuring a smooth, dynamic user experience through React. The implementation of React Router enhances the app's navigation, enabling multi-page routing for a real-world, scalable application."
+  },
+  {
+    image:p2,
+    title:"Nike Landing page",
+    descreption:"Built a visually striking landing page for Nike using React and Tailwind CSS. Implemented a modern, minimalistic design with fast load times and smooth user interactions. Leveraged React for dynamic UI updates and Tailwind CSS for utility-first styling, ensuring a seamless mobile-first experience. The page highlights Nike's latest products, focusing on user engagement and brand consistency.."
   },
   {
     image:p5,
     title:"Movie Website",
-    descreption:"Welcome to the Movie Website, the best place to find the newest movies from all around the world! This website is responsively designed to provide the best possible viewing experience across all platforms. Discover carefully chosen new releases, peruse comprehensive film details, and remain informed on everything related to the film industry. This website provides an entertaining and user-friendly design to improve your movie-watching experience, regardless of your level of interest in movies. Today, dive in and discover the world of movies."
+    descreption:"Developed a fully responsive movie website using HTML for structure, CSS for styling, and JavaScript along with jQuery for dynamic interactivity. The site allows users to browse through a collection of movies, view details such as ratings, descriptions, and trailers. jQuery was used to handle AJAX requests for real-time data updates, ensuring a smooth and engaging user experience. The design is optimized for performance and usability across devices, providing a seamless browsing experience"
   },
   {
     image:p6,
     title:"E-Commerce Website",
-    descreption:"You've found the best online buying platform when you shop at the E-Commerce Website! This site is optimized for all devices, including desktop, tablet, and smartphone, thanks to its fully responsive layout design. Choose from a large selection of products, take advantage of safe checkout methods, and enjoy intuitive navigation. Everyone may purchase with ease and enjoyment thanks to this E-Commerce website's user-friendly interface and contemporary design. Find your next best-loved thing right now by exploring."
+    descreption:"Developed a feature-rich e-commerce website using HTML for content structure, CSS for styling, and Bootstrap for a responsive, mobile-friendly layout. Integrated JavaScript and jQuery to handle dynamic features such as product filtering, shopping cart functionality, and AJAX-based interactions. The site offers an intuitive user interface, smooth navigation, and a seamless shopping experience, optimized for performance across different devices."
   },
   {
     image:p7,
     title:"Secret Saver",
-    descreption:"You've found the best online buying platform when you shop at the E-Commerce Website! This site is optimized for all devices, including desktop, tablet, and smartphone, thanks to its fully responsive layout design. Choose from a large selection of products, take advantage of safe checkout methods, and enjoy intuitive navigation. Everyone may purchase with ease and enjoyment thanks to this E-Commerce website's user-friendly interface and contemporary design. Find your next best-loved thing right now by exploring."
+    descreption:"Developed Secret Saver, a secure web application that allows users to create accounts for saving and managing phone numbers. The platform features a user-friendly interface for easy account management. Additionally, users can enhance their experience by pasting video URLs into a designated section to play videos directly on the site. This project showcases my skills in web development, focusing on user authentication, data management, and dynamic content integration. The application is designed with a clean, intuitive layout, ensuring a seamless user experience."
   }
 ]
 export default projects;
