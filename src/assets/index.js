@@ -27,12 +27,12 @@ let projects = [
   {
     image:p3,
     title:"Gemini Clone",
-    descreption:"Developed a functional clone of Google Gemini using React and Tailwind CSS for a responsive and modern design. Integrated the Google API to enhance functionality, ensuring real-time data interaction. This project demonstrates advanced proficiency in React's component-based architecture and Tailwind's utility-first approach, providing a seamless user experience across devices. The clone accurately replicates the features and aesthetics of Google Gemini, showcasing API integration and modern web development techniques.",
+    descreption:"Developed a functional clone of Google Gemini using React and Tailwind CSS for a responsive and modern design. Integrated the Google API to enhance functionality, ensuring real-time data interaction. This project demonstrates advanced proficiency in React's component-based architecture and Tailwind's utility-first approach, providing a seamless user experience across devices. The clone accurately replicates the features and aesthetics of Google Gemini, showcasing API integration and modern web development techniques[It will not give you the answer becouse I have hidden the gemini api key.].",
     link:"#"
   },
   {
     image:p4,
-    title:"Stcak Overflow Clone",
+    title:"Stack Overflow Clone",
     descreption:"Developed a full-featured Stack Overflow clone using React and React Router for seamless navigation across multiple pages. The project includes user-driven Q&A functionality, where users can post questions, submit answers, and upvote responses. Styled with Tailwind CSS for a modern and responsive layout, the clone replicates key features of Stack Overflow while ensuring a smooth, dynamic user experience through React. The implementation of React Router enhances the app's navigation, enabling multi-page routing for a real-world, scalable application.",
     link:"#"
   },
