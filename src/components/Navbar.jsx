@@ -8,10 +8,10 @@ function Navbar() {
             <img src={logo} alt="logo" className='h-20 ' />
         </div>
         <div className='m-8  flex items-center justify-center gap-4 text-2xl text-purple-300'>
-            <a href='https://github.com/Karan-2401'><FaGithub/></a>
-            <a href="https://www.linkedin.com/in/karan-yadav24/"><FaLinkedin/></a>
-            <a href='https://x.com/KaranYadav55378'><FaSquareXTwitter/></a>
-            <a href='#'><FaWhatsapp/></a>
+            <a href='https://github.com/Karan-2401' className='hover:text-purple-500'><FaGithub/></a>
+            <a href="https://www.linkedin.com/in/karan-yadav24/" className='hover:text-purple-500'><FaLinkedin/></a>
+            <a href='https://x.com/KaranYadav55378' className='hover:text-purple-500'><FaSquareXTwitter/></a>
+            <a href='#' className='hover:text-purple-500'><FaWhatsapp/></a>
         </div>
     </nav>
   )
