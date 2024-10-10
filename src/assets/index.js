@@ -45,6 +45,11 @@ let projects = [
     image:p6,
     title:"E-Commerce Website",
     descreption:"You've found the best online buying platform when you shop at the E-Commerce Website! This site is optimized for all devices, including desktop, tablet, and smartphone, thanks to its fully responsive layout design. Choose from a large selection of products, take advantage of safe checkout methods, and enjoy intuitive navigation. Everyone may purchase with ease and enjoyment thanks to this E-Commerce website's user-friendly interface and contemporary design. Find your next best-loved thing right now by exploring."
+  },
+  {
+    image:p7,
+    title:"Secret Saver",
+    descreption:"You've found the best online buying platform when you shop at the E-Commerce Website! This site is optimized for all devices, including desktop, tablet, and smartphone, thanks to its fully responsive layout design. Choose from a large selection of products, take advantage of safe checkout methods, and enjoy intuitive navigation. Everyone may purchase with ease and enjoyment thanks to this E-Commerce website's user-friendly interface and contemporary design. Find your next best-loved thing right now by exploring."
   }
 ]
 export default projects;
