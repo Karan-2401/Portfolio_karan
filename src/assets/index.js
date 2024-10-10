@@ -4,6 +4,7 @@ import p3 from "./pr_pic/p3.png"
 import p4 from "./pr_pic/p4.png"
 import p5 from "./pr_pic/p5.png"
 import p6 from "./pr_pic/p6.png"
+import p7 from "./pr_pic/p7"
 let experience =[
     {
         year: "2024 - Present",
