@@ -20,7 +20,7 @@ let projects = [
     image:p1,
     title:"Dice Game",
     descreption:"Developed an interactive single-player dice game using React for dynamic UI updates. Implemented game logic in JavaScript to generate random dice rolls, providing an engaging and unpredictable experience. The project incorporates modern web development practices with a responsive design using HTML CSS, and Tailwind for a seamless user experience across devices.",
-    link:"#"
+    link:"https://dice-game-ten-psi.vercel.app/"
     
   },
   
@@ -28,31 +28,31 @@ let projects = [
     image:p3,
     title:"Gemini Clone",
     descreption:"Developed a functional clone of Google Gemini using React and Tailwind CSS for a responsive and modern design. Integrated the Google API to enhance functionality, ensuring real-time data interaction. This project demonstrates advanced proficiency in React's component-based architecture and Tailwind's utility-first approach, providing a seamless user experience across devices. The clone accurately replicates the features and aesthetics of Google Gemini, showcasing API integration and modern web development techniques[It will not give you the answer becouse I have hidden the gemini api key.].",
-    link:"#"
+    link:"https://google-gemini-ruby-iota.vercel.app/"
   },
   {
     image:p4,
     title:"Stack Overflow Clone",
     descreption:"Developed a full-featured Stack Overflow clone using React and React Router for seamless navigation across multiple pages. The project includes user-driven Q&A functionality, where users can post questions, submit answers, and upvote responses. Styled with Tailwind CSS for a modern and responsive layout, the clone replicates key features of Stack Overflow while ensuring a smooth, dynamic user experience through React. The implementation of React Router enhances the app's navigation, enabling multi-page routing for a real-world, scalable application.",
-    link:"#"
+    link:"https://stackoverflow-murex.vercel.app/"
   },
   {
     image:p2,
     title:"Nike Landing page",
     descreption:"Built a visually striking landing page for Nike using React and Tailwind CSS. Implemented a modern, minimalistic design with fast load times and smooth user interactions. Leveraged React for dynamic UI updates and Tailwind CSS for utility-first styling, ensuring a seamless mobile-first experience. The page highlights Nike's latest products, focusing on user engagement and brand consistency..",
-    link:"#"
+    link:"https://nike-topaz.vercel.app/"
   },
   {
     image:p5,
     title:"Movie Website",
     descreption:"Developed a fully responsive movie website using HTML for structure, CSS for styling, and JavaScript along with jQuery for dynamic interactivity. The site allows users to browse through a collection of movies, view details such as ratings, descriptions, and trailers. jQuery was used to handle AJAX requests for real-time data updates, ensuring a smooth and engaging user experience. The design is optimized for performance and usability across devices, providing a seamless browsing experience",
-    link:"#"
+    link:"https://movie-five-gilt.vercel.app/"
   },
   {
     image:p6,
     title:"E-Commerce Website",
     descreption:"Developed a feature-rich e-commerce website using HTML for content structure, CSS for styling, and Bootstrap for a responsive, mobile-friendly layout. Integrated JavaScript and jQuery to handle dynamic features such as product filtering, shopping cart functionality, and AJAX-based interactions. The site offers an intuitive user interface, smooth navigation, and a seamless shopping experience, optimized for performance across different devices.",
-    link:"#"
+    link:"https://storeweb-xi.vercel.app/"
   },
   {
     image:p7,
