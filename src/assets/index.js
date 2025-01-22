@@ -5,17 +5,33 @@ import p4 from "./pr_pic/p4.png"
 import p5 from "./pr_pic/p5.png"
 import p6 from "./pr_pic/p6.png"
 import p7 from "./pr_pic/p7.png"
+import p8 from "./pr_pic/p8.png"
 let experience =[
+  {
+    year: "Nov,2024 - Jan,2025",
+    role: "Web Designer and Wordpress Developer",
+    company: "Danstring Technology",
+    description: `Enhanced website performance using React.js for dynamic user interfaces and Node.js with Express.js for efficient server-side rendering, improving site speed by 60% and boosting search engine rankings. Designed 50+ visually appealing layouts with React.js components, increasing user engagement by 30% through client branding strategies. Developed 10+ custom functionalities using Node.js, Express.js, and React.js, improving client website functionality and achieving a 25% rise in user retention.`,
+    technologies: ["HTML", "CSS", "React.js", "javascript", "Php", "Wordpress", "Canva"],
+  },
     {
-        year: "2024 - Present",
+        year: "Aug,2024 - Nov,2024",
         role: "Web Developer Intern",
         company: "NullClass",
         description: `Developed responsive and dynamic websites using React.js, Bootstrap, Tailwind, JavaScript, HTML, and CSS. Gained hands-on experience with backend technologies such as Node.js, Express.js, and MySQL, collaborating with a team to build and optimize full-stack web applications, ensuring high performance and user-friendly experiences.`,
         technologies: ["HTML", "CSS", "React.js", "javascript", "Node Js"," Express Js", "mySQL"],
-      }
+      },
+      
 ]
 
 let projects = [
+  {
+    image:p8,
+    title:"Blog",
+    descreption:"Created a fully responsive blog website where users can read blogs, write their own, and manage their content. Built using EJS for templating, Node.js, and Express.js for the backend, and MongoDB as the database, the application ensures efficient and secure data management. Users are required to create an account, enabling them to upload, edit, and delete their blogs with ease. The platform delivers a seamless experience, focusing on user-friendly navigation and mobile responsiveness. This project combines interactive features with robust backend technology to offer an engaging blogging platform for users, enhancing accessibility and encouraging content creation and sharing.",
+    link:"https://github.com/Karan-2401/Blog-"
+    
+  },
   {
     image:p1,
     title:"Dice Game",

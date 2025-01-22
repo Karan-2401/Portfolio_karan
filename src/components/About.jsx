@@ -14,7 +14,10 @@ function About() {
             </div>
             <div className='w-full lg:w-1/2'>
                 <div className='flex justify-center lg:justify-start'>
-                <motion.p whileInView={{opacity:1,x:0}} initial={{opacity:0,x:100}} transition={{duration:0.5}} className='my-2 max-w-xl py-6 font-light tracking-tighter text-balance mx-2 lg:mx-0'>Hi, I’m Karan, a dedicated Web Developer from New Delhi, India, and currently pursuing my Bachelor's degree at Delhi University.I’ve had the opportunity to hone my skills through an internship as a Web Developer at NullClass, where I excelled in front-end development using technologies like React.js, Bootstrap, Tailwind, JavaScript, HTML, and CSS to create dynamic and responsive websites and in Back End I have used Node js, Express js, Mongo Db. My commitment to professional growth is also reflected in my completion of a digital marketing course from True CV, where I learned valuable tools related to SEO and WordPress. Now, I’m expanding my expertise by diving into backend development with Node.js, Express.js, and MongoDB, with a clear goal of becoming a well-rounded full-stack developer.</motion.p>
+                <motion.p whileInView={{opacity:1,x:0}} initial={{opacity:0,x:100}} transition={{duration:0.5}} className='my-2 max-w-xl py-6 font-light tracking-tighter text-balance mx-2 lg:mx-0'>
+I am Karan Yadav, a passionate Front-End Developer with 8+ months of experience in building responsive, user-friendly websites and applications. Proficient in technologies like React.js, Node.js, and WordPress, I specialize in creating visually appealing and functional web solutions. My expertise includes optimizing website performance, integrating APIs, and implementing SEO strategies to enhance user engagement and drive organic traffic.  
+
+I have developed diverse projects, including a blog platform, Google Gemini and Stack Overflow clones, and interactive games, showcasing my ability to merge creativity with technical precision. I am always eager to learn and explore innovative technologies to deliver impactful digital experiences.</motion.p>
                 </div>
             </div>
         </div>
